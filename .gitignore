@@ -1,0 +1,4 @@
+ .env
+   venv/
+   intel.db
+   __pycache__/
